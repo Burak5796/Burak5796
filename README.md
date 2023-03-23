@@ -1,7 +1,7 @@
 ### Hi 👋
 
 Ich bin Burak.
-27 Jahre alt und ein Fulstack-Developer.
+27 Jahre alt und ein Junior-Web-Developer.
 
 Vor kurzem habe ich einen Web-Development Kurs erfolgreich abgeschlossen und bin seither auf Jobsuche.
 
