@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋
+
+Ich bin Burak.
+27 Jahre alt und ein Fulstack-Developer.
+
+Vor kurzem habe ich einen Web-Development Kurs erfolgreich abgeschlossen und bin seither auf Jobsuche.
+Nebensächlich arbeite ich an eigenen Projekten.
+
 
 <!--
 **Burak5796/Burak5796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
