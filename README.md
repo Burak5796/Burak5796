@@ -13,10 +13,10 @@ Nebensächlich arbeite ich an eigenen Projekten.
 
 ### Badges:
 
+![image](https://user-images.githubusercontent.com/101558929/227270381-88843991-ec64-4fec-a136-afa6517954a9.png)
 
-![image](https://user-images.githubusercontent.com/101558929/227270004-492cd282-a087-4cf3-991c-b7cfd69064b9.png)
+https://api.eu.badgr.io/public/assertions/23D-qkEzTbqfDY8hOc1Fbg?identity__email=burak.d5796%40gmail.com
 
-https://api.eu.badgr.io/public/assertions/oJNdeK8FSlOwSTEzgOSRsQ?identity__email=burak.d5796%40gmail.com
 
 ![image](https://user-images.githubusercontent.com/101558929/227270240-4c13217f-7a43-40ed-b13c-718b87729b9f.png)
 
@@ -27,10 +27,6 @@ https://api.eu.badgr.io/public/assertions/S2T01UY6SLqzLZ9q5UW22g?identity__email
 
 https://api.eu.badgr.io/public/assertions/r1jlUtrfRqaVmaX1Ks_ezQ?identity__email=burak.d5796%40gmail.com
 
-
-![image](https://user-images.githubusercontent.com/101558929/227270381-88843991-ec64-4fec-a136-afa6517954a9.png)
-
-https://api.eu.badgr.io/public/assertions/23D-qkEzTbqfDY8hOc1Fbg?identity__email=burak.d5796%40gmail.com
 
 <!--
 **Burak5796/Burak5796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
